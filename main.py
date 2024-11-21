@@ -1,4 +1,4 @@
 def tolower():
-  return string.toLower()
+  return str.toLower()
 
 print(tolower("Hello World!"))
